@@ -1,0 +1,10 @@
+task1 蜂鸣器
+task2 dht11
+task3 rtc
+task4 MFRC522读卡
+task5 as608指纹
+task6 键盘
+task7 蓝牙usart3
+task8 解锁
+task9 上锁 
+task10 IWDG
